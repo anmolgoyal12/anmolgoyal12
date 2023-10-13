@@ -11,8 +11,6 @@
 
 - 💬 Ask me about anything in **C,HTML**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/anmol-goyal-3aa863194_changes-in-resume-activity-7108287306070917120-MMa_?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/anmol-goyal-3aa863194_changes-in-resume-activity-7108287306070917120-MMa_?utm_source=share&utm_medium=member_desktop)
-
 - ⚡Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
