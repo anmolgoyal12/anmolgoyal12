@@ -1,3 +1,4 @@
+![logo](https://github.com/anmolgoyal12/anmolgoyal12/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Anmol Goyal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
